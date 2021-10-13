@@ -7,4 +7,4 @@ A limitation in the data is that it is unclear what the ratio is between teacher
 
 ## Observation 2: 
 Charter schools outperformed District schools. Charter schools had a higher % Overall Passing Rate than District schools.
-Charter schools had smaller student population sizes than district schools which may contribute to the higher % Overall Passing Rate. Another limitation in the data is that there is no specific information regarding each school. Since charter schools typically run independently from district schools, they have more flexibility in their curriculum and are able to progress much faster than district schools.
+Charter schools also had smaller student population sizes than District schools which may contribute to the higher % Overall Passing Rate. Another limitation in the data is that there is no specific information regarding each school. Since Charter schools typically run independently from District schools, they tend to have more flexibility in their curriculum and may be able to progress much faster than District schools. However, due to lack of information about each school, we can only speculate.
